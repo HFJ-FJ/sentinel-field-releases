@@ -1,7 +1,7 @@
 {
   "packageName": "org.sentinel.replay",
-  "versionCode": 270,
-  "versionName": "2.7.0-roster",
-  "apkUrl": "https://raw.githubusercontent.com/HFJ-FJ/sentinel-field-releases/main/Sentinel-replay-2.7.apk",
-  "sha256": "4c7e0a607a6741f5919fcb64576adafc9f0fba7483c4bac2cfb8497c0c6e5136"
+  "versionCode": 280,
+  "versionName": "2.8.0-weatherroles",
+  "apkUrl": "https://raw.githubusercontent.com/HFJ-FJ/sentinel-field-releases/main/Sentinel-replay-2.8.apk",
+  "sha256": "5c99bf501a837708caf26247ffe197cb1176be64c4cd9800f63a4c3e13dcfa13"
 }
