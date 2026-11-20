@@ -1,0 +1,7 @@
+{
+  "packageName": "org.sentinel.replay",
+  "versionCode": 240,
+  "versionName": "2.4.0-updatefix",
+  "apkUrl": "https://raw.githubusercontent.com/HFJ-FJ/sentinel-field-releases/main/Sentinel-replay-2.4.apk",
+  "sha256": "8c27c7bf72401a1e81db05d23524df3f7512c6e65ddce37da332d4285ad51367"
+}
