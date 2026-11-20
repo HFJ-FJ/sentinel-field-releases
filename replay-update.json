@@ -1,7 +1,7 @@
 {
   "packageName": "org.sentinel.replay",
-  "versionCode": 250,
-  "versionName": "2.5.0-channels",
-  "apkUrl": "https://raw.githubusercontent.com/HFJ-FJ/sentinel-field-releases/main/Sentinel-replay-2.5.apk",
-  "sha256": "ed6e8d9eae17db880f5d1a31db086d048a99368dc7065ef24b96b753a54e6c40"
+  "versionCode": 260,
+  "versionName": "2.6.0-glass",
+  "apkUrl": "https://raw.githubusercontent.com/HFJ-FJ/sentinel-field-releases/main/Sentinel-replay-2.6.apk",
+  "sha256": "7657d20665087f2e0ab3bcba7d9e7c8d5a0466a37a81d491c44793cab6c0bf3d"
 }
