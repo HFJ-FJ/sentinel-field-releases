@@ -1,0 +1,7 @@
+{
+  "packageName": "org.sentinel.replay",
+  "versionCode": 290,
+  "versionName": "2.9.0-cachefix",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/HFJ-FJ/sentinel-field-releases@7ef13a8d04ce0829228ebcefdaa2ba7e4019e463/Sentinel-replay-2.9.apk",
+  "sha256": "16cfa5b35ff4c844e868bf103489f261a15abbae1166481f764c6e5cca282f4b"
+}
